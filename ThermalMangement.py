@@ -1,7 +1,7 @@
 import os # 운영체제
 import pandas as pd #pandas : 라이브러리
-import numpy as np #numpy : 수학과 과학 연산인자
-from tqdm import tqdm # tqdm : 진행상황 확인
+import numpy as np #numpy : 
+from tqdm import tqdm # tqdm : # 진행상황 확인
 
 def load_data(file_path=r'C:\Users\chohs\BMS\아이오닉5\01241227999\01241227999\2023-03'):
     global data 
